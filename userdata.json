@@ -1,0 +1,22 @@
+{
+    "Admin": {
+        "id": 1,
+        "password": "ce5ca673d13b36118d54a7cf13aeb0ca012383bf771e713421b4d1fd841f539a",
+        "items": {
+            "item_1": "1",
+            "item_2": "2",
+            "item_3": "3",
+            "item_4": "test",
+            "item_5": "test 2",
+            "item_6": "test igen",
+            "item_7": "another item"
+        }
+    },
+    "Johan": {
+        "id": "2",
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "items": {
+            "item_1": "coolt johan item"
+        }
+    }
+}
