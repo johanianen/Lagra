@@ -1,7 +1,6 @@
 #---------------------------------------------------------------------------
 #Imports
 import os,platform
-import time
 import json
 import hashlib
 from getpass import getpass
